@@ -1,0 +1,11 @@
+# Ambiente Virtual
+venv/
+__pycache__/
+*.pyc
+
+# Sensível (LGPD e Segurança)
+.env
+database/sistema_seguro.db
+
+# Logs de Auditoria (Geralmente não vão para o repo)
+logs/

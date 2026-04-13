@@ -1,0 +1,6 @@
+flask               # Framework para a interface e API
+argon2-cffi         # Hash criptográfico seguro e parametrizado [cite: 86]
+pyotp               # Autenticação de dois fatores (2FA) [cite: 90]
+cryptography        # Criptografia de dados em repouso (AES) [cite: 28, 124]
+python-dotenv       # Proteção de chaves e variáveis sensíveis
+flask-limiter       # Proteção contra ataques de força bruta [cite: 23, 92]
